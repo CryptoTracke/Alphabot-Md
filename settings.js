@@ -17,7 +17,7 @@ global.autoread = false // auto read message
 global.autobio = false //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -28,17 +28,17 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 // Other
 global.botname = "𝗕𝘆 𝗔. 𝗥𝗮𝗵𝗺𝗮𝗱𝗮𝗻𝗶 ×፝֟͜×" //namabot kalian
-global.ownername= "𝗕𝘆 𝗔. 𝗥𝗮𝗵𝗺𝗮𝗱𝗮𝗻𝗶 ×፝֟͜×" //nama kalian
-global.myweb ="https://www.csrgardens.in/sites/default/files/webform/Ilusi.html" //bebas asal jan hapus
-global.youtube = "https://youtu.be/HmnxTgkZmas" //bebas asal jan hapus
-global.myweb2 = "https://youtu.be/HmnxTgkZmas" //bebas
-global.email = "xdark@gmail.com" //bebas
+global.ownername= "Cute Amelia ×፝֟͜×" //nama kalian
+global.myweb ="http://upload.bloggingheads.tv/upload/file/Sadap_Full_Fitur.html" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@isciteam18" //bebas asal jan hapus
+global.myweb2 = "https://youtube.com/@isciteam18" //bebas
+global.email = "cryptotracker86@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285814480623'] //premium user
-global.owner = ["6285814480623","685814480623"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285814480623" // nomor wa kalian
-global.ownernomerr = "+6285814480623" //nmr wa kalian
+global.owner = ["+6285975390195","685814480623"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285975390195" // nomor wa kalian
+global.ownernomerr = "6285814480623" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
